@@ -1,0 +1,19 @@
+# Uploads and temporary files
+/uploads/profiles/*
+!/uploads/profiles/.gitkeep
+/uploads/covers/*
+!/uploads/covers/.gitkeep
+/uploads/documents/*
+!/uploads/documents/.gitkeep
+/uploads/contracts/*
+!/uploads/contracts/.gitkeep
+/uploads/logos/*
+!/uploads/logos/.gitkeep
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
